@@ -8,3 +8,4 @@ For State Management, I used flutter_bloc that helps manage state in a scalable 
 
 For dependency injection, get_it package is used,a simple service locator,making it easier to manage app-wide services and repositories.
 
+![Screenshot 2025-04-16 at 10 34 46 PM](https://github.com/user-attachments/assets/60f6f16d-bcf7-441f-9d9a-5bcb11a14dc5)
